@@ -377,6 +377,43 @@ public class Main {
                             como vamos mudar o nosso programa para deixar mais intuitivo aos usuários.
 
 
+                Aula 05 - Estruturas condicionais:
+
+                    Contexto básico: Controle de fluxo é a habilidade de ajustar a maneira como um programa realiza suas tarefas.
+                    Por meio de instruções especiais, chamadas de comandos, essas tarefas podem ser ser executadas seletivamente,
+                    repetidamentente ou excepicionalmente.
+
+                    Sendo elas dividas em 3 tipos:
+                    - Estruturas de condicionais: If-else, switch-case;
+                    - Estruturas de repetição: for, while, do-while;
+                    - Estruturas de exceções: try-catch-finally, throw.
+
+
+                    A estrutura condicional possibilita a escolha de um grupo de ações e comportamentos a serem executadas quando
+                    determinadas condições são ou não satisfeitas. A estrutura conficional pode ser Simples ou Composta.
+
+                    Condicionais Simples:
+                    Quando ocorre uma validação de execução de fluxo somente quando a condição for positiva,
+                    consideramos como uma estrutura simples, exemplo -> Classe: Condicionais
+
+                    Condicionais Compostas:
+                    Algumas vezes o nosso programa deverá seguir mais de uma jornada de execução condicionando a uma regra de negócio,
+                    este cenário é denominado como Condicional Composta, exemplo -> Classe: Condicionais
+
+                    Condicionais encadeadas:
+                    Em um controle de fluxo condicional, nem sempre nos limitamos ao SE ( IF ) e SENÃO ( ELSE ), poderemos ter uma ter-
+                    ceira, quarta e ou inúmeras condições, exemplo -> Classe: Condicionais
+
+                    Condicionais Ternárias:
+                    podemos abreviar nosso algorítmo com o conceito de operador ternário, exemplo -> Classe Condicionais
+
+                    Switch Case:
+                    A estrutura SWITCH compara o valor de cada caso com o da variável sequencilamente, e sempre que encontra um valor
+                    correspondente, executa o código associado ao caso. Para evitar que as comparações continuem a ser executados após
+                    um caso correspondente ter sido encontrado, acrescentamos o comando BREAK no final de cada bloco de códigos. O coman-
+                    do break, quando executado, encerra a execução da estrutura onde ele se encontra
+
+
 
 
 
